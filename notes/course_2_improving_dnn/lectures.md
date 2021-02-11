@@ -1,6 +1,5 @@
 # Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 
-
 ## Week 1
 
 ## Setting up your Maschine Learning Application
